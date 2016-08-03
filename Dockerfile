@@ -1,2 +1,2 @@
-FROM daocloud.io/php:5.4-apache
+FROM daocloud.io/php:7.0.0RC4-apache
 COPY . /var/www/html/
