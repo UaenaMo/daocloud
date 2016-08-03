@@ -1,3 +1,4 @@
+<meta property="qc:admins" content="151414743354565470525417347546417100617" />
 <?php
 $dsn = "mysql:host=10.10.26.58:3306;dbname=wfcGVXBQNdz126YL";
 $dbh = new PDO($dsn,'unBzKNg3JTrR0uxw','pAfp68HchMLEI1QFD');
