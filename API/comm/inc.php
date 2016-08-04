@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101336653","appkey":"ecb5127a0a94e7761a97f07c34e8d44d","callback":"http://web-developer-daocloud.daoapp.io/back.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
